@@ -18,6 +18,7 @@ Each file contains:
 | 05 | Cancellation Tokens | 9.5/10 | CancellationToken propagation, OperationCanceledException |
 | 06 | Filter and Sort | 10/10 | Deferred execution, AsEnumerable, switch expression |
 | 07 | Extension Methods | 10/10 | ToSnakeCase, WhereIf, StringBuilder, Func<T,bool> |
+| 08 | Generic and EF Core | 9/10 | Generic Repository Pattern + EF Core Operations |
 
 ## Running the problems
 
