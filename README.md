@@ -19,6 +19,7 @@ Each file contains:
 | 06 | Filter and Sort | 10/10 | Deferred execution, AsEnumerable, switch expression |
 | 07 | Extension Methods | 10/10 | ToSnakeCase, WhereIf, StringBuilder, Func<T,bool> |
 | 08 | Generic and EF Core | 9/10 | Generic Repository Pattern + EF Core Operations |
+| 09 | Records and mapping | 9/10 | Records, Immutability, static mappers |
 
 ## Running the problems
 
