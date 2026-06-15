@@ -20,6 +20,7 @@ Each file contains:
 | 07 | Extension Methods | 10/10 | ToSnakeCase, WhereIf, StringBuilder, Func<T,bool> |
 | 08 | Generic and EF Core | 9/10 | Generic Repository Pattern + EF Core Operations |
 | 09 | Records and mapping | 9/10 | Records, Immutability, static mappers |
+| 10 | Dapper Query Patterns | 10/10 | Dapper reads, CommandDefinition, Dapper vs EF Core |
 
 ## Running the problems
 
