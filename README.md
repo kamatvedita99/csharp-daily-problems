@@ -21,6 +21,7 @@ Each file contains:
 | 08 | Generic and EF Core | 9/10 | Generic Repository Pattern + EF Core Operations |
 | 09 | Records and mapping | 9/10 | Records, Immutability, static mappers |
 | 10 | Dapper Query Patterns | 10/10 | Dapper reads, CommandDefinition, Dapper vs EF Core |
+| 11 | Fluent Validations | 8/10 | Validation Chaining, Regex, Fluent Validations vs Data Annotations |
 
 ## Running the problems
 
