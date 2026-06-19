@@ -22,6 +22,9 @@ Each file contains:
 | 09 | Records and mapping | 9/10 | Records, Immutability, static mappers |
 | 10 | Dapper Query Patterns | 10/10 | Dapper reads, CommandDefinition, Dapper vs EF Core |
 | 11 | Fluent Validations | 8/10 | Validation Chaining, Regex, Fluent Validations vs Data Annotations |
+| 12 | Middleware Fundamentals | 9.5/10 | RequestDelegate, InvokeAsync, middleware pipeline ordering |
+| 13 | Generic Constraints | 10/10 | When constraints earn complexity, extension methods (this T), flag-argument anti-pattern |
+| 14 | Generic Constraint Boundaries | 10/10 | Compile-time vs runtime failure, interfaces have no partial implementation, constraints protect shape not intent |
 
 ## Running the problems
 
